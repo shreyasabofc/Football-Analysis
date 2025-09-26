@@ -1,0 +1,32 @@
+FIFA PLAYERS DATASET ANALYSIS - KEY INSIGHTS
+KEY FINDINGS:
+1. High-value players (top 10%) have an average age of nan and rating of nan
+2. Players with high growth potential (>5 points) are typically 20.9 years old
+3. Best value players average 58.1 rating at €0.0M
+4. Most represented league: USA Major League Soccer with 832 players
+5. Highest average player value: Spain Primera Division (€3.3M avg)
+6. Player age distribution: Mean 25.2, Range 16-41
+7. Peak performance age: 34 years (avg rating: 69.9)
+8. Most important skill for overall rating: passing (correlation: 0.659)
+9. Biggest age-related skill difference: defending
+
+RECOMMENDATIONS:
+ SCOUTING STRATEGY:
+   • Focus on players aged 20-25 for best long-term value
+   • Target players with overall rating 75-82 for optimal price/performance
+   • Look for high growth potential (>5 points) in younger players
+
+ INVESTMENT INSIGHTS:
+   • Peak performance occurs around age 34
+   • Consider selling players after age 28-30 to maximize returns
+   • passing is the most valuable skill to develop
+
+ MARKET ANALYSIS:
+   • Top 10% of players command premium prices (avg €nanM)
+   • Value-for-money opportunities exist in undervalued leagues
+   • Youth development should focus on passing training
+
+ FUTURE RESEARCH:
+   • Analyze player performance trends over multiple seasons
+   • Study injury impact on player values and ratings
+   • Investigate market inefficiencies across different leagues
